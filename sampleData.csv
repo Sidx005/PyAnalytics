@@ -1,0 +1,3 @@
+customer_name,email,region,product_name,category,unit_price,quantityiews
+John,john@test.com,North,Laptop,Electronics,75000,2
+Alice,alice@test.com,South,Mouse,Accessories,800,1
